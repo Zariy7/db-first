@@ -1,0 +1,10 @@
+ID - Primary Key
+Model - VARCHAR(20); NOT NULL
+Plate - VARCHAR(8); NOT NULL
+Horsepower - SMALLINT; NOT NULL
+Flaws/Faults - TEXT; NULL
+Accidents - TINYINT; NULL
+N° Previous Owners - TINYINT; NOT NULL
+Accidents - TINYINT; NOT NULL
+Mileage - INT; NOT NULL
+Price - MEDIUMINT; NOT NULL
